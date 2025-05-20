@@ -2,6 +2,8 @@
 
 This simple web app allows filtering and browsing of academic publication outlets based on VHB ratings and relevance to Information Systems.
 
+**Live Demo:** [cbrincoveanu.github.io/publication-explorer-vhb-is](https://cbrincoveanu.github.io/publication-explorer-vhb-is)
+
 ## Features
 
 - Filter by Rating, Type (Journal/Conference), Category
