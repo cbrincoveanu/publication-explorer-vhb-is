@@ -1,0 +1,2000 @@
+[
+  {
+    "Title": "Nature",
+    "Rating": "A+",
+    "Votes \u2265 rating [%]": 91,
+    "Publisher": "Nature Publishing Group",
+    "Link": "https://www.nature.com/",
+    "Category": "independent",
+    "Type": "journal"
+  },
+  {
+    "Title": "Science",
+    "Rating": "A+",
+    "Votes \u2265 rating [%]": 90,
+    "Publisher": "AAAS",
+    "Link": "https://www.science.org/journal/science",
+    "Category": "independent",
+    "Type": "journal"
+  },
+  {
+    "Title": "Academy of Management Journal (AMJ)",
+    "Rating": "A+",
+    "Votes \u2265 rating [%]": 85,
+    "Publisher": "Academy of Management",
+    "Link": "https://journals.aom.org/journal/amj",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Management Science",
+    "Rating": "A+",
+    "Votes \u2265 rating [%]": 80,
+    "Publisher": "INFORMS",
+    "Link": "https://pubsonline.informs.org/journal/mnsc",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "MIS Quarterly",
+    "Rating": "A+",
+    "Votes \u2265 rating [%]": 78,
+    "Publisher": "University of Minnesota",
+    "Link": "https://misq.umn.edu/",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Administrative Science Quarterly (ASQ)",
+    "Rating": "A+",
+    "Votes \u2265 rating [%]": 78,
+    "Publisher": "Cornell University Press",
+    "Link": "https://journals.sagepub.com/home/asq",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Academy of Management Review (AMR)",
+    "Rating": "A+",
+    "Votes \u2265 rating [%]": 76,
+    "Publisher": "Academy of Management",
+    "Link": "https://journals.aom.org/journal/amr",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Information Systems Research (ISR)",
+    "Rating": "A+",
+    "Votes \u2265 rating [%]": 72,
+    "Publisher": "INFORMS",
+    "Link": "https://pubsonline.informs.org/journal/isre",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Organization Science",
+    "Rating": "A+",
+    "Votes \u2265 rating [%]": 70,
+    "Publisher": "INFORMS",
+    "Link": "https://pubsonline.informs.org/journal/orsc",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Operations Research",
+    "Rating": "A+",
+    "Votes \u2265 rating [%]": 59,
+    "Publisher": "INFORMS",
+    "Link": "https://pubsonline.informs.org/journal/opre",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Strategic Management Journal (SMJ)",
+    "Rating": "A+",
+    "Votes \u2265 rating [%]": 57,
+    "Publisher": "Wiley",
+    "Link": "https://onlinelibrary.wiley.com/journal/10970266",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Management (JOM)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 90,
+    "Publisher": "SAGE",
+    "Link": "https://journals.sagepub.com/home/jom",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Transportation Science",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 88,
+    "Publisher": "INFORMS",
+    "Link": "https://pubsonline.informs.org/journal/trsc",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of the Association for Information Systems (JAIS)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 87,
+    "Publisher": "AIS",
+    "Link": "http://aisel.aisnet.org/jais/",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "International Conference on Information Systems Proceedings (ICIS)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 87,
+    "Publisher": "AIS",
+    "Link": "http://aisel.aisnet.org/icis/",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "Journal of Management Studies (JMS)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 86,
+    "Publisher": "Wiley",
+    "Link": "https://onlinelibrary.wiley.com/journal/14676486",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Management Information Systems (JMIS)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 85,
+    "Publisher": "Taylor & Francis Group",
+    "Link": "https://www.tandfonline.com/journals/mmis20",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "European Journal of Operational Research",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 83,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/european-journal-of-operational-research",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Research Policy (RP)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 82,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/research-policy",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Information Systems Journal (ISJ)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 81,
+    "Publisher": "Wiley",
+    "Link": "https://onlinelibrary.wiley.com/journal/13652575",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Academy of Management Annals",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 81,
+    "Publisher": "Academy of Management",
+    "Link": "https://journals.aom.org/journal/annals",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Organization Studies (OS)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 80,
+    "Publisher": "SAGE",
+    "Link": "https://journals.sagepub.com/home/oss",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Production and Operations Management",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 79,
+    "Publisher": "Wiley, POMS",
+    "Link": "https://onlinelibrary.wiley.com/journal/19375956",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "European Journal of Information Systems (EJIS)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 78,
+    "Publisher": "Taylor & Francis Group",
+    "Link": "https://www.tandfonline.com/journals/tjis20",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Service Research",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 78,
+    "Publisher": "SAGE",
+    "Link": "https://journals.sagepub.com/home/jsr",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Manufacturing & Service Operations Management",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 78,
+    "Publisher": "INFORMS",
+    "Link": "https://pubsonline.informs.org/journal/msom",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Strategic Information Systems (JSIS)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 76,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/the-journal-of-strategic-information-systems",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Nature Energy",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 75,
+    "Publisher": "Nature Portfolio",
+    "Link": "https://www.nature.com/nenergy/",
+    "Category": "independent",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Operations Management",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 74,
+    "Publisher": "Wiley",
+    "Link": "https://onlinelibrary.wiley.com/journal/18731317",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Nature Sustainability",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 74,
+    "Publisher": "Nature Portfolio",
+    "Link": "https://www.nature.com/natsustain/",
+    "Category": "independent",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Product Innovation Management (JPIM)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 74,
+    "Publisher": "Wiley-Blackwell",
+    "Link": "https://onlinelibrary.wiley.com/journal/15405885",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Proceedings of the International Conference on Machine Learning (ICML)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 74,
+    "Publisher": "MLR Press",
+    "Link": "https://proceedings.mlr.press/",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 74,
+    "Publisher": "AAAI",
+    "Link": "https://aaai.org/aaai-publications/aaai-conference-proceedings/#aaai",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Nature Human Behavior",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 73,
+    "Publisher": "Springer Nature",
+    "Link": "https://www.nature.com/nathumbehav/",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "INFORMS Journal on Computing",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 70,
+    "Publisher": "INFORMS",
+    "Link": "http://pubsonline.informs.org/journal/ijoc",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Nature Communications",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 70,
+    "Publisher": "Nature Portfolio",
+    "Link": "https://www.nature.com/ncomms/",
+    "Category": "independent",
+    "Type": "journal"
+  },
+  {
+    "Title": "Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 70,
+    "Publisher": "IJCAI",
+    "Link": "https://www.ijcai.org/all_proceedings",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Journal of Information Technology (JIT)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 69,
+    "Publisher": "SAGE",
+    "Link": "https://journals.sagepub.com/home/jin",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "OR Spectrum",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 64,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/291",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 62,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/conference/chi",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 62,
+    "Publisher": "NeurIPS Foundation",
+    "Link": "https://proceedings.neurips.cc/",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "ACM Computing Surveys (CSUR)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 57,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/journal/csur",
+    "Category": "computer-science",
+    "Type": "journal"
+  },
+  {
+    "Title": "Health Care Management Science",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 56,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/10729",
+    "Category": "discipline-specific",
+    "Type": "journal"
+  },
+  {
+    "Title": "European Conference on Information Systems Proceedings (ECIS)",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 54,
+    "Publisher": "AIS",
+    "Link": "http://aisel.aisnet.org/ecis/",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "Nature Machine Intelligence",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 52,
+    "Publisher": "Springer Nature",
+    "Link": "https://www.nature.com/natmachintell/",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "SIAM Journal on Computing",
+    "Rating": "A",
+    "Votes \u2265 rating [%]": 50,
+    "Publisher": "SIAM",
+    "Link": "https://epubs.siam.org/journal/smjcat",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Decision Support Systems (DSS)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 93,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/decision-support-systems/",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Business Ethics (JBE)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 92,
+    "Publisher": "Springer Nature",
+    "Link": "https://www.springer.com/journal/10551",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Academy of Management Perspectives (AMP)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 92,
+    "Publisher": "Academy of Management",
+    "Link": "https://journals.aom.org/journal/amp",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Annals of Operations Research",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 91,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/10479",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Interactive Marketing",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 91,
+    "Publisher": "SAGE",
+    "Link": "https://journals.sagepub.com/home/jnm",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Long Range Planning (LRP)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 91,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/long-range-planning",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Academy of Management Discoveries (AMD)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 91,
+    "Publisher": "Academy of Management",
+    "Link": "https://journals.aom.org/journal/amd",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Business Research (JBR)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 90,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/journal-of-business-research",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of the ACM",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 89,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/journal/jacm",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Decision Sciences",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 89,
+    "Publisher": "Wiley",
+    "Link": "https://onlinelibrary.wiley.com/journal/15405915",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Information & Management",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 88,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/information-and-management",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Computers & Operations Research",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 88,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/computers-and-operations-research",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Business & Information Systems Engineering (BISE)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 87,
+    "Publisher": "Springer",
+    "Link": "http://www.bise-journal.com/",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Technological Forecasting and Social Change",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 86,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/technological-forecasting-and-social-change",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Omega",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 85,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/omega",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "IEEE Transactions on Engineering Management",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 85,
+    "Publisher": "IEEE",
+    "Link": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "ACM SIGMIS Database",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 84,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/newsletter/sigmis",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Computers in Human Behavior",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 84,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/computers-in-human-behavior",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Academy of Management Learning & Education (AMLE)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 84,
+    "Publisher": "Academy of Management",
+    "Link": "https://journals.aom.org/journal/amle",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "INFORMS Journal on Applied Analytics",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 83,
+    "Publisher": "INFORMS",
+    "Link": "https://pubsonline.informs.org/journal/ijaa",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Information and Organization",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 82,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/information-and-organization",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "ACM Transactions on Information Systems (TOIS)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 82,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/journal/tois",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "ACM Transactions on Computer-Human Interaction",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 82,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/journal/tochi",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Artificial Intelligence",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 81,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/artificial-intelligence",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "European Management Journal (EMJ)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 81,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/european-management-journal",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "ACM Transactions on Management Information Systems (TMIS)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 80,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/journal/tmis",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Computer",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 80,
+    "Publisher": "IEEE",
+    "Link": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Human-Computer Interaction",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 80,
+    "Publisher": "Taylor & Francis",
+    "Link": "https://www.tandfonline.com/journals/hhci20",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Government Information Quarterly",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 79,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/government-information-quarterly",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Communications of the ACM",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 77,
+    "Publisher": "ACM",
+    "Link": "https://cacm.acm.org/",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Data & Knowledge Engineering",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 76,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/data-and-knowledge-engineering",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Service Management",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 76,
+    "Publisher": "Emerald",
+    "Link": "https://www.emeraldgrouppublishing.com/journal/josm",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "AIS Transactions on Human-Computer Interaction (THCI)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 75,
+    "Publisher": "AIS",
+    "Link": "https://aisel.aisnet.org/thci/",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Information Technology & People",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 75,
+    "Publisher": "Emerald",
+    "Link": "https://www.emeraldgrouppublishing.com/journal/itp",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "MIS Quarterly Executive (MISQE)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 75,
+    "Publisher": "Indiana University Press",
+    "Link": "https://aisel.aisnet.org/misqe/",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "International Journal of Management Reviews (IJMR)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 75,
+    "Publisher": "Wiley",
+    "Link": "https://onlinelibrary.wiley.com/journal/14682370",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Applied Energy",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 75,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/applied-energy",
+    "Category": "discipline-specific",
+    "Type": "journal"
+  },
+  {
+    "Title": "Electronic Markets (EM)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 74,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/12525",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Information Systems Frontiers (ISF)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 74,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/10796",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Organization",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 74,
+    "Publisher": "SAGE",
+    "Link": "https://journals.sagepub.com/home/org",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "CAiSE - Advanced Information Systems Engineering (CAiSE (in LNCS))",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 74,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/caise",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 74,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/conference/facct",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 74,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/conference/kdd",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Computer Supported Cooperative Work",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 73,
+    "Publisher": "Springer",
+    "Link": "http://link.springer.com/journal/10606",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Business Economics (JBE)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 73,
+    "Publisher": "Springer Nature",
+    "Link": "https://www.springer.com/journal/11573",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Behaviour & Information Technology (BIT)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 72,
+    "Publisher": "Taylor & Francis",
+    "Link": "https://www.tandfonline.com/journals/tbit20",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Information and Software Technology",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 72,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/information-and-software-technology",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "IEEE Transactions on Software Engineering",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 72,
+    "Publisher": "IEEE",
+    "Link": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "PLoS One",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 72,
+    "Publisher": "Public Library of Science",
+    "Link": "https://journals.plos.org/plosone/",
+    "Category": "independent",
+    "Type": "journal"
+  },
+  {
+    "Title": "California Management Review (CMR)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 72,
+    "Publisher": "University of California Press",
+    "Link": "https://journals.sagepub.com/home/cmr",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Computers & Security",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 72,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/computers-and-security",
+    "Category": "computer-science",
+    "Type": "journal"
+  },
+  {
+    "Title": "International Journal of Electronic Commerce (IJEC)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 71,
+    "Publisher": "Routledge",
+    "Link": "https://www.tandfonline.com/journals/mjec20",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Cleaner Production",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 71,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/journal-of-cleaner-production",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "ER - Conceptual Modeling (ER (in LNCS))",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 71,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/er",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "Software and Systems Modeling (SoSyM)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 70,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/10270",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Operations Research Letters",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 70,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/operations-research-letters",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "MIT Sloan Management Review",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 70,
+    "Publisher": "MIT Sloan",
+    "Link": "http://sloanreview.mit.edu/",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 70,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/journal/tosem",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "IEEE Software",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 69,
+    "Publisher": "IEEE",
+    "Link": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Information Systems (IS)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 68,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/information-systems",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Schmalenbach Journal of Business Research (SBUR)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 68,
+    "Publisher": "Springer Nature",
+    "Link": "https://www.springer.com/journal/41471",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Energy",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 68,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/energy",
+    "Category": "discipline-specific",
+    "Type": "journal"
+  },
+  {
+    "Title": "Group Decision and Negotiation",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 67,
+    "Publisher": "Springer",
+    "Link": "http://link.springer.com/journal/10726",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Medical Internet Research (JMIR)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 67,
+    "Publisher": "JMIR Publications",
+    "Link": "https://www.jmir.org/",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "IEEE Transactions on Knowledge and Data Engineering",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 67,
+    "Publisher": "IEEE",
+    "Link": "https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=69",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Technovation",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 66,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/technovation",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "ACM Transactions on Human-Robot Interaction (THRI)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 66,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/journal/thri",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Service Science",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 66,
+    "Publisher": "INFORMS",
+    "Link": "https://pubsonline.informs.org/journal/serv",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Review of Managerial Science (RMS)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 66,
+    "Publisher": "Springer Nature",
+    "Link": "https://www.springer.com/journal/11846",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Scandinavian Journal of Management (SJM)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 66,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/scandinavian-journal-of-management",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Wirtschaftsinformatik Proceedings (WI)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 66,
+    "Publisher": "AIS Affiliated",
+    "Link": "https://aisel.aisnet.org/wi/",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "CSCW - Computer Supported Cooperative Work and Social Computing (CSCW)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 65,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/conference/cscw",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Journal of Decision Systems (JDS)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 64,
+    "Publisher": "Taylor & Francis",
+    "Link": "https://www.tandfonline.com/journals/tjds20",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "International Journal of Information Management (IJIM)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 64,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/international-journal-of-information-management",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Hawaii International Conference on System Sciences (HICSS)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 64,
+    "Publisher": "AIS Affiliated",
+    "Link": "https://aisel.aisnet.org/hicss/",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "BPM - International Conference on Business Process Management (BPM (in LNCS))",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 64,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/bpm",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "Communications of the Association for Information Systems (CAIS)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 63,
+    "Publisher": "AIS",
+    "Link": "http://aisel.aisnet.org/cais/",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "INFORMS Journal on Data Science",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 63,
+    "Publisher": "INFORMS",
+    "Link": "https://pubsonline.informs.org/journal/ijds",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Systems and Software",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 63,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/journal-of-systems-and-software",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "International Conference on Design Science Research in Information Systems and Technology (DESRIST (in LNCS))",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 62,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/desrist",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "Internet Research",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 61,
+    "Publisher": "Emerald",
+    "Link": "https://www.emeraldgrouppublishing.com/journal/intr",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "International Journal of Innovation Management (IJIM)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 61,
+    "Publisher": "World Scientific",
+    "Link": "https://www.worldscientific.com/worldscinet/ijim",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "IEEE Transactions on Human-Machine Systems",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 60,
+    "Publisher": "IEEE",
+    "Link": "https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221037",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Economics Letters",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 60,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/economics-letters",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "IUI - Proceedings of the International Conference on Intelligent User Interfaces (IUI)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 60,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/conference/iui",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Information Systems Management (ISM)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 59,
+    "Publisher": "Taylor & Francis",
+    "Link": "https://www.tandfonline.com/journals/uism20",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "International Journal of Human Computer Studies",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 59,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Harvard Business Review (HBR)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 59,
+    "Publisher": "Harvard Business School Publishing",
+    "Link": "https://hbr.org/magazine",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "ACM Transactions on Interactive Intelligent Systems (TiiS)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 58,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/journal/tiis",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Computers in Industry",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 57,
+    "Publisher": "North Holland",
+    "Link": "https://www.sciencedirect.com/journal/computers-in-industry",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Computers & Education",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 57,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/computers-and-education",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "IEEE Internet Computing",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 55,
+    "Publisher": "IEEE",
+    "Link": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4236",
+    "Category": "computer-science",
+    "Type": "journal"
+  },
+  {
+    "Title": "Scandinavian Journal of Information Systems (SJIS)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 54,
+    "Publisher": "University of Aalborg",
+    "Link": "https://aisel.aisnet.org/sjis/",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Information Technology and Management",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 53,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/10799",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Expert Systems with Applications",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 53,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/expert-systems-with-applications",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "IEEE Access",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 53,
+    "Publisher": "IEEE",
+    "Link": "https://ieeeaccess.ieee.org/",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Management Review Quarterly (MRQ)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 53,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/11301",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "International Conference on Process Mining (ICPM)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 53,
+    "Publisher": "IEEE CIS",
+    "Link": "https://ieeexplore.ieee.org/xpl/conhome/1832504/all-proceedings",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "IEEE Engineering Management Review (EMR)",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 52,
+    "Publisher": "IEEE",
+    "Link": "https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=46",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "International Journal of Accounting Information Systems",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 50,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/international-journal-of-accounting-information-systems",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 50,
+    "Publisher": "IEEE",
+    "Link": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "International Conference on Human-Computer Interaction (HCII (in LNCS))",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 50,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/hcii",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "EDOC - Enterprise Design, Operations and Computing (EDOC (in LNCS))",
+    "Rating": "B",
+    "Votes \u2265 rating [%]": 50,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/edoc",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "AIS Transactions on Replication Research (TRR)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 95,
+    "Publisher": "AIS",
+    "Link": "https://aisel.aisnet.org/trr/",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Knowledge Management (KM)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 93,
+    "Publisher": "Emerald",
+    "Link": "https://www.emeraldgrouppublishing.com/journal/jkm",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Information Systems (JIS)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 92,
+    "Publisher": "American Accounting Association",
+    "Link": "https://aaahq.org/Research/Journals/Journal-of-Information-Systems",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of the Association for Information Science and Technology (JASIST)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 89,
+    "Publisher": "Wiley",
+    "Link": "https://asistdl.onlinelibrary.wiley.com/journal/23301643",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Australian Journal of Information Systems (AJIS)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 88,
+    "Publisher": "University of Queensland",
+    "Link": "https://journal.acs.org.au/index.php/ajis",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "IFIP WG 8.1 Working Conference on the Practice of Enterprise Modeling (PoEM (in LNBIP))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 88,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/poem",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "AI & Society",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 86,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/146",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Information Systems and e-Business Management (ISeB)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 85,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/10257",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "European Conference on Computer-Supported Cooperative Work Contributions (ECSCW)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 85,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/collections/ejfghegaae",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Electronic Commerce Research",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 84,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/10660",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Service Management Research (SMR)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 84,
+    "Publisher": "Nomos",
+    "Link": "https://www.nomos.de/en/journals/smr/",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Enterprise Information Management (JEIM)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 83,
+    "Publisher": "Emerald",
+    "Link": "https://www.emeraldgrouppublishing.com/journal/jeim",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Energy Informatics",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 83,
+    "Publisher": "Springer",
+    "Link": "https://energyinformatics.springeropen.com/",
+    "Category": "discipline-specific",
+    "Type": "journal"
+  },
+  {
+    "Title": "AIS Transaction on Enterprise Systems (AIS-TES)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 82,
+    "Publisher": "Gito",
+    "Link": "http://www.aes-journal.com/",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Information Systems Education (JISE)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 82,
+    "Publisher": "ISCAP-EDSIG",
+    "Link": "https://jise.org/",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Business Analytics (JBA)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 82,
+    "Publisher": "Taylor & Francis",
+    "Link": "https://www.tandfonline.com/journals/tjba20",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "IFIP WG 8.5 International Conference on Electronic Government (EGOV (in LNCS))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 82,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/egov",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "Business Process Management Journal (BPMJ)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 81,
+    "Publisher": "Emerald",
+    "Link": "http://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=bpmj",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Computer Networks",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 81,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/computer-networks",
+    "Category": "computer-science",
+    "Type": "journal"
+  },
+  {
+    "Title": "Pacific Asia Journal of the Association for Information Systems (PAJAIS)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 79,
+    "Publisher": "AIS",
+    "Link": "https://aisel.aisnet.org/pajais/",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Electronic Commerce Research (JECR)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 79,
+    "Publisher": "Long Beach, Calif.: Univ.",
+    "Link": "http://www.jecr.org/",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Project Management Journal (PMJ)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 78,
+    "Publisher": "SAGE",
+    "Link": "https://journals.sagepub.com/home/pmx",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Information Sciences",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 78,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/information-sciences",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "BPMDS - Business Process Modeling, Development and Support (BPMDS (in LNBIP))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 78,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/bpmds",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "Information Systems and Neuroscience - NeuroIS Retreat (NeuroIS (in LNISO))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 78,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/neurols",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "IEEE International Conference on Data Mining (ICDM)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 78,
+    "Publisher": "IEEE",
+    "Link": "https://ieeexplore.ieee.org/xpl/conhome/1000179/all-proceedings",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Americas Conference on Information Systems Proceedings (AMCIS)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 77,
+    "Publisher": "AIS",
+    "Link": "http://aisel.aisnet.org/amcis/",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "Pacific Asia Conference on Information Systems Proceedings (PACIS)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 77,
+    "Publisher": "AIS",
+    "Link": "https://aisel.aisnet.org/pacis/",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "Enterprise Modelling and Information Systems Architectures",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 76,
+    "Publisher": "GI",
+    "Link": "https://emisa-journal.org/emisa",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Journal of Computer-Mediated Communication",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 76,
+    "Publisher": "Oxford University Press",
+    "Link": "https://academic.oup.com/jcmc",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Industrial Management & Data Systems (IMDS)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 76,
+    "Publisher": "Emerald",
+    "Link": "https://www.emeraldgrouppublishing.com/journal/imds?id=imds",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "IEEE International Conference on Business Informatics (IEEE CBI)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 76,
+    "Publisher": "IEEE",
+    "Link": "https://ieeexplore.ieee.org/xpl/conhome/1002843/all-proceedings",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "EMMSAD - Evaluation and Modeling Methods for Systems Analysis and Development (EMMSAD (in LNBIP))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 76,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/emmsad",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "International Journal of Project Management (IJPM)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 75,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/international-journal-of-project-management",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "ER Forum (ER Forum (in CEUR-WS))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 75,
+    "Publisher": "diverse",
+    "Link": "https://dblp.org/db/conf/er/erf2022.html",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "Electronic Commerce Research and Applications (ECRA)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 74,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/electronic-commerce-research-and-applications",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "KI - K\u00fcnstliche Intelligenz",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 74,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/13218",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "International Journal of Innovation and Technology Management (IJITM)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 71,
+    "Publisher": "World Scientific",
+    "Link": "https://www.worldscientific.com/worldscinet/ijitm",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Database and Expert Systems Applications (DEXA (in LNCS))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 71,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/dexa",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "CSCW Companion",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 71,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/conference/cscw",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Informatik (GI Jahrestagung)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 71,
+    "Publisher": "GI",
+    "Link": "https://dl.gi.de/handle/20.500.12116/19085",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Frontiers in Artificial Intelligence",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 70,
+    "Publisher": "Frontiers",
+    "Link": "https://www.frontiersin.org/journals/artificial-intelligence",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "BPM Workshops - Business Process Management Workshops (BPM Workshops (in LNBIP))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 70,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/bpm",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "CAiSE Forum - Intelligent Information Systems (CAiSE Forum (in LNBIP))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 70,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/caise",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "ER Workshops - Advances in Conceptual Modeling (ER Workshops (in LNCS))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 70,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/er",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Scandinavian Conference on Information Systems Proceedings (SCIS)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 69,
+    "Publisher": "AIS Chapter",
+    "Link": "https://aisel.aisnet.org/scis/",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "Proceedings of Mensch und Computer (MundC or MuC)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 68,
+    "Publisher": "ACM",
+    "Link": "https://dl.acm.org/conference/mundc",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "International Journal of Knowledge Management (IJKM)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 67,
+    "Publisher": "IGI Global",
+    "Link": "https://www.igi-global.com/journal/international-journal-knowledge-management-ijkm/1083",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "BIS - Business Information Systems (BIS (in LNBIP))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 67,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/bis",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "BPM Blockchain and Robotic Process Automation Forum (BPM: Blockchain and RPA Forum (in LNBIP))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 67,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/bpm",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "BPM Forum - Business Process Management Forum (BPM Forum (in LNBIP))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 67,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/bpm",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "International Journal of Electronic Business (IJEB)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 65,
+    "Publisher": "Inderscience",
+    "Link": "https://www.inderscience.com/jhome.php?jcode=ijeb",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "International Conference on Information Systems Development Proceedings (ISD)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 65,
+    "Publisher": "AIS Affiliated",
+    "Link": "https://aisel.aisnet.org/isd2014/",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Enterprise Information Systems (Post-Proceedings) (ICEIS (in LNBIP))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 64,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/iceis",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "CAiSE Workshops - Advanced Information Systems Engineering Workshops (CAiSE Workshops (in LNBIP))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 64,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/caise",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "Journal of Information Technology Teaching Cases (JITTC)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 62,
+    "Publisher": "SAGE",
+    "Link": "https://journals.sagepub.com/home/TTC",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Australasian Conference on Information Systems Proceedings (ACIS)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 61,
+    "Publisher": "AIS Chapter",
+    "Link": "https://aisel.aisnet.org/acis/",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "Digital Business",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 60,
+    "Publisher": "Elsevier",
+    "Link": "https://www.sciencedirect.com/journal/digital-business",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "BLED Proceedings - Bled eConference (BLED)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 60,
+    "Publisher": "AIS Affiliated",
+    "Link": "https://aisel.aisnet.org/bled/",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "HMD Praxis der Wirtschaftsinformatik",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 59,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/40702",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Die Unternehmung - Swiss Journal of Business Research and Practice",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 59,
+    "Publisher": "Nomos",
+    "Link": "https://www.nomos.de/zeitschriften/du/",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "Business Modeling and Software Design (BMSD (in LNBIP))",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 59,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/bmsd",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "International Conference on Information Resources Management Proceedings (Conf-IRM)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 59,
+    "Publisher": "IRMA",
+    "Link": "https://aisel.aisnet.org/conf-irm/",
+    "Category": "interface",
+    "Type": "conference"
+  },
+  {
+    "Title": "Information Resources Management Journal (IRMJ)",
+    "Rating": "C",
+    "Votes \u2265 rating [%]": 57,
+    "Publisher": "IGI Global",
+    "Link": "https://www.igi-global.com/journal/information-resources-management-journal/1073",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Wirtschaftsinformatik und Management (WuM)",
+    "Rating": "D",
+    "Votes \u2265 rating [%]": 100,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/35764",
+    "Category": "direct",
+    "Type": "journal"
+  },
+  {
+    "Title": "Datenschutz und Datensicherheit (DuD)",
+    "Rating": "D",
+    "Votes \u2265 rating [%]": 100,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/11623",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "i-com: Journal of Interactive Media",
+    "Rating": "D",
+    "Votes \u2265 rating [%]": 100,
+    "Publisher": "de Gruyter",
+    "Link": "https://www.degruyter.com/journal/key/icom/html",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "Informatik Spektrum",
+    "Rating": "D",
+    "Votes \u2265 rating [%]": 100,
+    "Publisher": "Springer",
+    "Link": "https://www.springer.com/journal/287",
+    "Category": "interface",
+    "Type": "journal"
+  },
+  {
+    "Title": "McKinsey Quarterly",
+    "Rating": "D",
+    "Votes \u2265 rating [%]": 100,
+    "Publisher": "McKinsey & Company",
+    "Link": "https://www.mckinsey.com/quarterly/overview",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "e-Service Journal",
+    "Rating": "D",
+    "Votes \u2265 rating [%]": 100,
+    "Publisher": "Indiana University Press",
+    "Link": "http://muse.jhu.edu/journals/esj/",
+    "Category": "business/management",
+    "Type": "journal"
+  },
+  {
+    "Title": "it - Information Technology",
+    "Rating": "D",
+    "Votes \u2265 rating [%]": 100,
+    "Publisher": "de Gruyter",
+    "Link": "https://www.degruyter.com/journal/key/itit/html",
+    "Category": "computer-science",
+    "Type": "journal"
+  },
+  {
+    "Title": "Mediterranean Conference on Information Systems Proceedings (MCIS)",
+    "Rating": "D",
+    "Votes \u2265 rating [%]": 100,
+    "Publisher": "AIS Affiliated",
+    "Link": "https://aisel.aisnet.org/mcis/",
+    "Category": "direct",
+    "Type": "conference"
+  },
+  {
+    "Title": "BIS Workshops - Business Information Systems Workshops (BIS Workshops (in LNBIP))",
+    "Rating": "D",
+    "Votes \u2265 rating [%]": 100,
+    "Publisher": "Springer",
+    "Link": "https://link.springer.com/conference/bis",
+    "Category": "direct",
+    "Type": "conference"
+  }
+]

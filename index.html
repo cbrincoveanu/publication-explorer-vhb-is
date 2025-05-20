@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>VHB Information Systems Publication Explorer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>VHB Information Systems Publication Explorer</h1>
+
+<p>This tool allows researchers in the Information Systems (IS) field to explore journals and conference proceedings relevant to the <a href="https://www.vhbonline.org/fileadmin/vhb/Services/vhb-rating/WI/VHB_Rating_2024_Area_rating_WI.pdf" target="_blank">VHB-JOURQUAL 2024 rating</a> for the <strong>Wirtschaftsinformatik / Information Systems</strong> area. You can filter by title, type, rating, category, and publisher to identify suitable publication venues.</p>
+
+<div class="filters">
+  <div class="filter-group">
+    <label for="search">Search Title:</label>
+    <input type="text" id="search" placeholder="Enter title keyword...">
+  </div>
+
+  <div class="filter-group">
+    <label>Category:</label>
+    <div id="categoryFilter"></div>
+  </div>
+
+  <div class="filter-group">
+    <label>Type:</label>
+    <div id="typeFilter"></div>
+  </div>
+
+  <div class="filter-group">
+    <label>Rating:</label>
+    <div id="ratingFilter"></div>
+  </div>
+
+  <div class="filter-group">
+    <label>Publisher:</label>
+    <div id="publisherFilter"></div>
+  </div>
+</div>
+
+<table id="publicationsTable">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Rating</th>
+      <th>Votes ≥ %</th>
+      <th>Publisher</th>
+      <th>Category</th>
+      <th>Type</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+<script src="script.js"></script>
+</body>
+</html>
